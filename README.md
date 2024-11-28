@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding gif" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)">
+<img align="right" alt="coding gif" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunitdy&label=Profile%20views&color=0e75b6&style=flat" alt="arunitdy" /> </p>
 <!--
