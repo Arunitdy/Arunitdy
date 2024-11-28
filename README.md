@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
- <a  target="blank" href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>
+ <a  href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
