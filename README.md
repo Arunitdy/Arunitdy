@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Arun</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+<img align="right" alt="Coding" width="200" height="200" src="[https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif](https://media.tenor.com/y9iRgR0XX8cAAAAM/decentdao-dao.gif)">
 
 
 
