@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Arun</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://media1.giphy.com/media/5eaJrAvcQE9yNHtc7M/giphy.gif?cid=6c09b952zbzb49lrpj0vybk7kpgqmvd0ckjk3xiria0cnfo8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 
 
 
