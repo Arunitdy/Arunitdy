@@ -9,7 +9,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunitdy" alt="arunitdy" /></a> </p>
 -->
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+</a> 
+</p>
 
 -  I’m currently learning React , Express  
 
@@ -20,7 +22,7 @@
  
  <a  href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>
 
-<a  href=""><img   src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png"hight ="30" width="40"></a>
+<a  href=""><img   src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png"hight ="30" width="40"/></a>
 
 </p>
 
