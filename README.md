@@ -26,7 +26,6 @@
 <a  href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png" hight="30" width="40">
 </a>
 
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
