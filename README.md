@@ -20,7 +20,7 @@
  
  <a  href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>
 </p>
-
+<a href=""><img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png"hight ="30" width="40"></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
