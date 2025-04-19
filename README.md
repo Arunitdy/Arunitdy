@@ -13,7 +13,7 @@
 </a> 
 </p>
 
--  I’m currently learning React , Express  
+-  I’m currently learning Web development 
 
 -  How to reach me **arunmundakkal003@gmail.com**
 
