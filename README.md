@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Arun</h1>
+<h1 align="center">Hi , I'm Arun</h1>        <a  href="https://portfolioarun.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png" hight="30" width="40">
+</a>
 <h3 align="center">A passionate frontend developer </h3>
 <a href="https://portfolioarun.vercel.app/">
  <img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
@@ -20,8 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
- <a  href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>                 <a  href="https://portfolioarun.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio%2Fpngegg.png" hight="30" width="40">
-</a>
+ <a  href="https://www.linkedin.com/in/arun-m-8989212aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"  ></a>         
 
 
 <h3 align="left">Languages and Tools:</h3>
