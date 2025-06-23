@@ -42,9 +42,8 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHBEjaqplh6TqHlz8jRRgna6r1uT_lxMD9NsDNJgNAfZ0Rzp82MT0fdySkuxQNA20VRVE&usqp=CAU" alt="postman" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" alt="firebase" width="40" height="40"/>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/MongoDB.png" alt="firebase" width="40" height="40"/>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/express.png" alt="firebase" width="40" height="40"/>
-
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/MongoDB.png" alt="mongo db" width="40" height="40"/>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/express.png" alt="express" width="40" height="40"/>
 <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/public/vite.svg" alt="vite" width="40" height="40"/>
 
 <!--
