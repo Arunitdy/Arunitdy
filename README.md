@@ -45,6 +45,8 @@
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/MongoDB.png" alt="firebase" width="40" height="40"/>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/express.png" alt="firebase" width="40" height="40"/>
 
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Arunitdy/portfolio-2.0/blob/main/portfolio/src/All/logos/png/express.png" alt="firebase" width="40" height="40"/>
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunitdy&show_icons=true&locale=en&layout=compact" alt="arunitdy" /></p>
 
