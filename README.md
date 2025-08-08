@@ -13,7 +13,7 @@
 </a> 
 </p>
 
--  I’m currently learning Web development 
+-  I’m currently learning Web Development 
 
 -  How to reach me **arunmundakkal003@gmail.com**
 
