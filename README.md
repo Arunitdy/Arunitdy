@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Arun</h1>    
-<h3 align="center">A passionate Web Developer </h3>
+<h3 align="center">A passionate Software Developer </h3>
 <a href="https://portfolioarun.vercel.app/">
  <img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 </a>
@@ -13,7 +13,7 @@
 </a> 
 </p>
 
--  I’m currently learning Web Development 
+-  I’m currently learning Web Development and ML/AI 
 
 -  How to reach me **arunmundakkal003@gmail.com**
 
