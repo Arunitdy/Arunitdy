@@ -14,7 +14,7 @@
 </a> 
 </p>
 
--  I’m currently learning Web Development and ML/AI 
+-  I’m currently learning Web Development and ML / AI 
 
 -  How to reach me **arunmundakkal003@gmail.com**
 
