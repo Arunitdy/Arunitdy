@@ -15,7 +15,7 @@
 </a> 
 </p>
 
--  I’m currently learning AI/ML
+-  I’m currently learning AI / ML
 
 -  How to reach me **arunmundakkal003@gmail.com**
 
